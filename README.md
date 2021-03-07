@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python,telethon**
 
-- 👯 I’m looking to collaborate on [Layla RoBoT](https://github.com/theshashankk/Naruto)
+- 👯 I’m looking to collaborate on [Layla RoBoT](https://github.com/QueenArzoo/LaylaRobot)
 
 - 🤝 I’m looking for help with [QueenArzoo](https://github.com/QueenArzoo/)
 
