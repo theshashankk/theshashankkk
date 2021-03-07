@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Python,telethon**
 
-- 👯 I’m looking to collaborate on [https://github.com/theshashankk/Naruto](https://github.com/theshashankk/Naruto)
+- 👯 I’m looking to collaborate on [Layla RoBoT](https://github.com/theshashankk/Naruto)
 
-- 🤝 I’m looking for help with [QueenArzoo](https://github.com/QueenArzoo/LaylaRobot)
+- 🤝 I’m looking for help with [QueenArzoo](https://github.com/QueenArzoo/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/theshashankk](https://github.com/theshashankk)
 
