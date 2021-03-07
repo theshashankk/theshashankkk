@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Layla RoBoT](https://github.com/QueenArzoo/LaylaRobot)
 
-- 🤝 I’m looking for help with [QueenArzoo](https://github.com/QueenArzoo/)
+- 🤝 I’m looking for help with [QueenArzoo](https://github.com/QueenArzoo/LaylaRobot)
 
 - 👨‍💻 All of my projects are available at [https://github.com/theshashankk](https://github.com/theshashankk)
 
