@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashank Sharma🤗🤗</h1>
 <h3 align="center">Coding For Fun</h3>
 
-<img align='centre' src='https://media1.tenor.com/images/73c30c771d758437b67f727452b73f4e/tenor.gif' width='250"'>
+<img align='centre' src='https://giphy.com/gifs/producthunt-cat-computer-3oriO0o3mjqifL7wK4' width='250"'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theshashankk&label=Profile%20views&color=0e75b6&style=flat" alt="theshashankk" /> </p>
 
