@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theshashankk&label=Profile%20views&color=0e75b6&style=flat" alt="theshashankk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theshashankk" alt="theshashankk" /></a> </p>
+<p align="left"> <a href="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"><img src="https://github-profile-trophy.vercel.app/?username=theshashankk" alt="theshashankk" /></a> </p>
 
 - 🔭 I’m currently working on **Naruto**
 
