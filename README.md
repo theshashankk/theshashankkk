@@ -40,8 +40,7 @@ You can use the website to generate badges: https://shields.io/
 
 ## 🐙**Github Stats**
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=theshashankk&show_icons=true&theme=radical)](https://github.com/TheShashankk)
-
+[![github stats](https://github-readme-stats.vercel.app/api?username=TheShashankk&show_icons=true&count_private=true&theme=dark)
 <p>
   <a href="https://github.com/Theshashankk/handle-path-oz">
     <img width="55%" align="left" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=theshashankk&show_icons=true&hide_border=true" />
