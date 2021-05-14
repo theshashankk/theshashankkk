@@ -74,7 +74,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 # CURRENTLY LISTING
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="WIZ KHALIFA Spotify Playing" width="400"
+![SHASHANK OP](https://now-playing-codestackr.vercel.app/api/spotify-playing)
 
 
 # Follow me on
