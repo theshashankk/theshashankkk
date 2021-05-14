@@ -70,8 +70,11 @@ You can use the website to generate badges: https://shields.io/
 
 
 # MOST USED LANGUAGES
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=inukaasith)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=theshashankk)
 
+
+# CURRENTLY LISTING
+<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="WIZ KHALIFA Spotify Playing" width="400"
 
 
 # Follow me on
