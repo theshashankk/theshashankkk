@@ -36,7 +36,7 @@ You can use the website to generate badges: https://shields.io/
 
 # 🐙 GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/theshashankk)
-- ![GitHub followers](https://img.shields.io/github/followers/theshashankk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/theshashankk?tab=followers)
+- [![GitHub followers](https://img.shields.io/github/followers/theshashankk.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/theshashankk?tab=followers)]
 
 ## 🐙**Github Stats**
 
