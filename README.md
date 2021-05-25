@@ -15,6 +15,8 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
+<a href="https://www.buymeacoffee.com/theshashank" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee ☕" height=40px width=150px ></a>
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/theshashankk)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/real_Sharmashashank/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](sharmashashank091:sharmashashank091@gmail.vom)
