@@ -31,7 +31,7 @@ You can use the website to generate badges: https://shields.io/
 - 🤔 I’m looking for help with bot developing ;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have Never Study 😅;
-- 📫 How to reach me: sharmashashank091@gmail.com;
+- 📫 How to reach me: rs5794270@gmail.com;
 
 
 
