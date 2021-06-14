@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/theshashankk)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/real_Sharmashashank/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](rs5794270: rs5794270@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](rs5794270:rs5794270@gmail.com)
 [![Telegram](https://img.shields.io/badge/-xD-0078D4?style=flat&logo=Shashank-telegram&logoColor=white)](https://t.me/xD_Shashank)
 
 &nbsp;
