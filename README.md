@@ -2,8 +2,8 @@
 
 ## Please note: My popular repositories are at [𝗖𝗢𝗙𝗙𝗜𝗡 𝗫 𝗠𝗨𝗦𝗜𝗖]
 
-|  <a href="https://t.me/xD_Shashank"><img src="https://user-images.githubusercontent.com/78837537/121848860-453d2680-cd08-11eb-9390-b240eb4269d5.jpeg"
-" width="150px" height="150px" /></a> |
+|  <a href="https://t.me/xD_Shashank"><img src="https://user-images.githubusercontent.com/78837537/121848860-453d2680-cd08-11eb-9390-b240eb4269d5.jpeg" width="150px" height="150px" /></a> |
+
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[𝚡𝙳_𝚂𝚑𝚊𝚜𝚑𝚊𝚗𝚔](https://t.me/xD_Shashank)**                                                                                |
 | <a href="https://github.com/theshashankk"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/theshashank"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/real_Sharmashashank/"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a> |
