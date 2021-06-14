@@ -42,6 +42,9 @@ You can use the website to generate badges: https://shields.io/
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=TheShashankk&show_icons=true&count_private=true&theme=dark)
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theshashankk&" alt="theshashankk" /></p>
+
   <br />
   <code><img width="10%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <br />
