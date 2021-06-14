@@ -25,14 +25,14 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <img width="42%" align="right" alt="TheShashank" src="https://user-images.githubusercontent.com/78837537/119391740-5c31bf80-bcec-11eb-9f56-23df099bf967.jpg" />
-
+```python
 - 👨🏽‍💻 I’m currently working on [CoffinXmusic](https://t.me/CoffinXsupport);
 - 🌱 I’m currently learning Python Pyrogram & Telethon; 
 - 🤔 I’m looking for help with bot developing ;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have Never Study 😅;
 - 📫 How to reach me: sharmashashank091@gmail.com;
-
+```
 
 
 
