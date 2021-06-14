@@ -1,6 +1,5 @@
 ## 𝙎𝙃𝘼𝙎𝙃𝘼𝙉𝙆 (シャシャンク）👨‍💻
 
-## Please note: My popular repositories are at [𝗖𝗢𝗙𝗙𝗜𝗡 𝗫 𝗠𝗨𝗦𝗜𝗖]
 
 |  <a href="https://t.me/xD_Shashank"><img src="https://user-images.githubusercontent.com/78837537/121848860-453d2680-cd08-11eb-9390-b240eb4269d5.jpeg" width="150px" height="150px" /></a> |
 
