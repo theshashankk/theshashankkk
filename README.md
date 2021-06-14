@@ -26,7 +26,7 @@ You can use the website to generate badges: https://shields.io/
 
 <img width="42%" align="right" alt="TheShashank" src="https://user-images.githubusercontent.com/78837537/119391740-5c31bf80-bcec-11eb-9f56-23df099bf967.jpg" />
 
-- 👨🏽‍💻 I’m currently working on [CoffinXmusic](https://t.me/CoffinXsupport);
+- 👨🏽‍💻 I’m currently working on [Lion X](https://github.com/TeamLion-X/Lion-X);
 - 🌱 I’m currently learning Python Pyrogram & Telethon; 
 - 🤔 I’m looking for help with bot developing ;
 - 💬 Ask me about anything, I am happy to help;
