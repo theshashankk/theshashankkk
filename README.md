@@ -24,12 +24,12 @@ You can use the website to generate badges: https://shields.io/
 
 <img width="42%" align="right" alt="TheShashank" src="https://user-images.githubusercontent.com/78837537/119391740-5c31bf80-bcec-11eb-9f56-23df099bf967.jpg" />
 
-- 👨🏽‍💻 I’m currently working on [Lion X](https://github.com/TeamLion-X/Lion-X);
+- 👨🏽‍💻 I’m currently working on [ZYPHER] This project is closed source;
 - 🌱 I’m currently learning Python Pyrogram & Telethon; 
 - 🤔 I’m looking for help with bot developing ;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have Never Study 😅;
-- 📫 How to reach me: rs5794270@gmail.com;
+- 📫 How to reach me: xDShashank@gmail.com;
 
 
 
